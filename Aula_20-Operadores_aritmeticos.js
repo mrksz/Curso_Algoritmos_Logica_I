@@ -1,4 +1,11 @@
-//Aula 20 - Operadores aritméticos
+/* Curso Algorítimos e Lógica - I
+
+Nome: Mariana Roskosz
+Data: 05.2020
+
+Aula 20 - Operadores aritméticos
+
+*/
 
 /* Código em Portugpl:
 Var

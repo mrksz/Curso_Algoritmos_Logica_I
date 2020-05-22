@@ -1,4 +1,11 @@
-//Aula 26 - Estrutura - ENQUANTO
+/* Curso Algorítimos e Lógica - I
+
+Nome: Mariana Roskosz
+Data: 05.2020
+
+Aula 26 - Estrutura - ENQUANTO
+
+*/
 
 /* Código em Portugol:
 Var

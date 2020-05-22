@@ -1,4 +1,11 @@
-//Aula 19 - Operações lógicas
+/* Curso Algorítimos e Lógica - I
+
+Nome: Mariana Roskosz
+Data: 05.2020
+
+Aula 19 - Operações lógicas
+
+*/
 
 /* Código em Portugpl:
 escreval("Digite o nome do aluno: ")

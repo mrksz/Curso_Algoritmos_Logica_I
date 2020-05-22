@@ -1,4 +1,11 @@
-//Aula 21 - Operadores relacionais
+/* Curso Algorítimos e Lógica - I
+
+Nome: Mariana Roskosz
+Data: 05.2020
+
+Aula 21 - Operadores relacionais
+
+*/
 
 /* Código em Portugpl:
 Var

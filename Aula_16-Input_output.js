@@ -1,4 +1,12 @@
-//Aula 16 - Entrada e Saída de Dados
+/* Curso Algorítimos e Lógica - I
+
+Nome: Mariana Roskosz
+Data: 05.2020
+
+Aula 16 - Entrada e Saída de Dados
+
+*/
+
 
 var nome, idade;
 

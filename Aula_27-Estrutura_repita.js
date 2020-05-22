@@ -1,4 +1,11 @@
-//Aula 27 - Estrutura - REPITA
+/* Curso Algorítimos e Lógica - I
+
+Nome: Mariana Roskosz
+Data: 05.2020
+
+Aula 27 - Estrutura - REPITA
+
+*/
 
 /* Código em Portugol:
 Var

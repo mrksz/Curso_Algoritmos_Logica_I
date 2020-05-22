@@ -1,4 +1,11 @@
-//Aula 23 - Estrutura - SE e SENAO
+/* Curso Algorítimos e Lógica - I
+
+Nome: Mariana Roskosz
+Data: 05.2020
+
+Aula 23 - Estrutura - SE e SENAO
+
+*/
 
 /* Código em Portugol:
 Var

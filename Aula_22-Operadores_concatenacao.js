@@ -1,4 +1,11 @@
-//Aula 22 - Operadores de concatenação
+/* Curso Algorítimos e Lógica - I
+
+Nome: Mariana Roskosz
+Data: 05.2020
+
+Aula 22 - Operadores de concatenação
+
+*/
 
 /* Código em Portugpl:
 Var

@@ -1,4 +1,12 @@
-//Aula 16 - Tipos de estrutras de controle
+/* Curso Algorítimos e Lógica - I
+
+Nome: Mariana Roskosz
+Data: 05.2020
+
+Aula 18 - Tipos de estrutras de controle
+
+*/
+
 
 /* Código em Portugpl:
 escreval("Digite o nome do aluno: ")

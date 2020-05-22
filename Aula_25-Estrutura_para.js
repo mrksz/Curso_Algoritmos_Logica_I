@@ -1,4 +1,11 @@
-//Aula 25 - Estrutura - PARA - FAÇA
+/* Curso Algorítimos e Lógica - I
+
+Nome: Mariana Roskosz
+Data: 05.2020
+
+Aula 25 - Estrutura - PARA - FAÇA
+
+*/
 
 /* Código em Portugol:
 Var

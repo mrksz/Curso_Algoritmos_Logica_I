@@ -1,4 +1,11 @@
-//Aula 24 - Estrutura - ESCOLHA
+/* Curso Algorítimos e Lógica - I
+
+Nome: Mariana Roskosz
+Data: 05.2020
+
+Aula 24 - Estrutura - ESCOLHA
+
+*/
 
 /* Código em Portugol:
 Var
